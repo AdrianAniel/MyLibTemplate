@@ -30,6 +30,7 @@ Plantilla minimalista para crear **bibliotecas React** usando **TypeScript** y *
 Clona esta plantilla y corre en modo desarrollo:
 
 **npm install**
+
 **npm run dev**
 
 Esto levanta un servidor local para probar tu librería durante el desarrollo.
@@ -57,6 +58,7 @@ npm install **tu-paquete**
 Y luego importar componentes o funciones desde la librería normalmente:
 
 **ejemplo**
+
 import { **MiComponente** } from '**tu-paquete**';
 
 ---
