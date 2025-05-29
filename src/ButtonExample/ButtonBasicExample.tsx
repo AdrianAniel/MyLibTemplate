@@ -1,10 +1,10 @@
 import type { FC } from "react";
 
-interface ButtonProps {
+interface ButtonBasicProps {
     texto: string;
 }
 
-export const ButtonExample: FC<ButtonProps> = ({ texto }) => {
+export const ButtonBasicExample: FC<ButtonBasicProps> = ({ texto }) => {
     return (
         <button>{texto}</button>
     );

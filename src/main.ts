@@ -1,2 +1,1 @@
-export { ButtonExample } from "./ButtonExample/ButtonExample";
-export { TitleExample } from "./TitleExample/TitleExample";
+export { ButtonBasicExample } from "./ButtonExample/ButtonBasicExample";
